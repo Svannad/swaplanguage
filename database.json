@@ -1,0 +1,211 @@
+{
+    "members":[
+       {
+        "avatar": "https://firebasestorage.googleapis.com/v0/b/swap-language-2b74b.appspot.com/o/avatar%2Favatar1.png?alt=media&token=672b7445-d573-4b4b-8c9c-be539b5f2005",
+        "name": ["Eva María Matheson"],
+        "progress": ["Module 2"],
+        "learning": "https://firebasestorage.googleapis.com/v0/b/swap-language-2b74b.appspot.com/o/flags%2Fdk-flag.png?alt=media&token=61ffb8a3-9c21-4693-86c4-15eeef948ca4",
+        "activity": ["4h ago"]
+       },
+       {
+        "avatar": "https://firebasestorage.googleapis.com/v0/b/swap-language-2b74b.appspot.com/o/avatar%2Favatar2.png?alt=media&token=7b774336-8907-4754-b1db-fab7e96e57ed",
+        "name": ["Manish Cavan"],
+        "progress": ["Module 4"],
+        "learning": ["https://firebasestorage.googleapis.com/v0/b/swap-language-2b74b.appspot.com/o/flags%2Fdk-flag.png?alt=media&token=61ffb8a3-9c21-4693-86c4-15eeef948ca4"],
+        "activity": ["Active now"]
+       },
+       {
+        "avatar": "https://firebasestorage.googleapis.com/v0/b/swap-language-2b74b.appspot.com/o/avatar%2Favatar3.png?alt=media&token=f6c69e5c-6cb1-44ea-8746-a55cf47e68b9",
+        "name": ["Kerim Klimek"],
+        "progress": ["A1"],
+        "learning": ["https://firebasestorage.googleapis.com/v0/b/swap-language-2b74b.appspot.com/o/flags%2Fge-flag.png?alt=media&token=915e2908-8440-4e6e-9fb1-2b6cc433d58e"],
+        "activity": ["5 minutes ago"]
+       },
+       {
+        "avatar": "https://firebasestorage.googleapis.com/v0/b/swap-language-2b74b.appspot.com/o/avatar%2Favatar4.png?alt=media&token=e159d274-b1d1-4236-86a1-bcf054bdcfff",
+        "name": ["Kimi Anahita Nepi"],
+        "progress": ["A1"],
+        "learning": "https://firebasestorage.googleapis.com/v0/b/swap-language-2b74b.appspot.com/o/flags%2Fen-flag.png?alt=media&token=aab74fba-37d7-47b3-b082-2e84b68f1978",
+        "activity": ["1h ago"]
+       },
+       {
+        "avatar": "https://firebasestorage.googleapis.com/v0/b/swap-language-2b74b.appspot.com/o/avatar%2Favatar5.png?alt=media&token=38939267-b14c-4ca7-b1d5-3bea7a71677e",
+        "name": ["Aaron McCrory"],
+        "progress": ["Module 3"],
+        "learning": ["https://firebasestorage.googleapis.com/v0/b/swap-language-2b74b.appspot.com/o/flags%2Fdk-flag.png?alt=media&token=61ffb8a3-9c21-4693-86c4-15eeef948ca4"],
+        "activity": ["1 day ago"]
+       },
+       {
+        "avatar": "https://firebasestorage.googleapis.com/v0/b/swap-language-2b74b.appspot.com/o/avatar%2Favatar6.png?alt=media&token=fc1b0a65-00ec-4e6b-94d9-36d6ce574615",
+        "name": ["Emília Danniell"],
+        "progress": ["Module 2"],
+        "learning": "https://firebasestorage.googleapis.com/v0/b/swap-language-2b74b.appspot.com/o/flags%2Fdk-flag.png?alt=media&token=61ffb8a3-9c21-4693-86c4-15eeef948ca4",
+        "activity": ["47 minutes ago"]
+       },
+       {
+        "avatar": "https://firebasestorage.googleapis.com/v0/b/swap-language-2b74b.appspot.com/o/avatar%2Favatar7.png?alt=media&token=55c1d66f-a9a3-4369-b878-aab4e6562049",
+        "name": ["Prem Lynda Bradford"],
+        "progress": ["Module 1"],
+        "learning": "https://firebasestorage.googleapis.com/v0/b/swap-language-2b74b.appspot.com/o/flags%2Fdk-flag.png?alt=media&token=61ffb8a3-9c21-4693-86c4-15eeef948ca4",
+        "activity": ["Active now"]
+       },
+       {
+        "avatar": "https://firebasestorage.googleapis.com/v0/b/swap-language-2b74b.appspot.com/o/avatar%2Favatar8.png?alt=media&token=4bfaa3e8-e3ed-40ba-8364-192f59e59694",
+        "name": ["Epona Charpentier"],
+        "progress": ["Module 1"],
+        "learning": "https://firebasestorage.googleapis.com/v0/b/swap-language-2b74b.appspot.com/o/flags%2Fdk-flag.png?alt=media&token=61ffb8a3-9c21-4693-86c4-15eeef948ca4",
+        "activity": ["Active now"]
+       },
+       {
+        "avatar": "https://firebasestorage.googleapis.com/v0/b/swap-language-2b74b.appspot.com/o/avatar%2Favatar9.png?alt=media&token=5d026ad1-6577-4a3c-8286-adf602b58d13",
+        "name": ["Liljana Karimov"],
+        "progress": ["A2"],
+        "learning": "https://firebasestorage.googleapis.com/v0/b/swap-language-2b74b.appspot.com/o/flags%2Fen-flag.png?alt=media&token=aab74fba-37d7-47b3-b082-2e84b68f1978",
+        "activity": ["2h ago"]
+       },
+       {
+        "avatar": "https://firebasestorage.googleapis.com/v0/b/swap-language-2b74b.appspot.com/o/avatar%2Favatar1.png?alt=media&token=672b7445-d573-4b4b-8c9c-be539b5f2005",
+        "name": ["Napoleon Moulin"],
+        "progress": ["A1"],
+        "learning": "https://firebasestorage.googleapis.com/v0/b/swap-language-2b74b.appspot.com/o/flags%2Fen-flag.png?alt=media&token=aab74fba-37d7-47b3-b082-2e84b68f1978",
+        "activity": ["3 days ago"]
+       },
+       {
+        "avatar": "https://firebasestorage.googleapis.com/v0/b/swap-language-2b74b.appspot.com/o/avatar%2Favatar4.png?alt=media&token=e159d274-b1d1-4236-86a1-bcf054bdcfff",
+        "name": ["Fajr Adamou Sheenan"],
+        "progress": ["Module 3"],
+        "learning": "https://firebasestorage.googleapis.com/v0/b/swap-language-2b74b.appspot.com/o/flags%2Fdk-flag.png?alt=media&token=61ffb8a3-9c21-4693-86c4-15eeef948ca4",
+        "activity": ["23 minutes ago"]
+       }
+    ],
+    "videos": [
+        {
+          "thumbnail": "https://firebasestorage.googleapis.com/v0/b/swap-language-2b74b.appspot.com/o/lessons%2Flesson1.jpg?alt=media&token=cbe2fff4-f03b-4331-b013-fe676f1c7c71",
+          "lesson": ["Lesson 1"],
+          "title": ["Job Titles"],
+          "duration": ["Duration: 24min 8sec"],
+          "level": ["Level: Module 2"],
+          "chapter": ["one"]  
+        },
+        {
+            "thumbnail": "https://firebasestorage.googleapis.com/v0/b/swap-language-2b74b.appspot.com/o/lessons%2Flesson2.jpg?alt=media&token=b170b636-90b0-4067-9354-44f61ae7bcec",
+            "lesson": ["Lesson 2"],
+            "title": ["What Do You Do?"],
+            "duration": ["Duration: 20min 17sec"],
+            "level": ["Level: Module 2"],
+            "chapter": ["one"]    
+          },
+          {
+            "thumbnail": "https://firebasestorage.googleapis.com/v0/b/swap-language-2b74b.appspot.com/o/lessons%2Flesson3.jpg?alt=media&token=5e8b534d-b93e-4542-a5ea-c6bc3afc4456",
+            "lesson": ["Lesson 3"],
+            "title": ["Talking About Others"],
+            "duration": ["Duration: 21min 42sec"],
+            "level": ["Level: Module 2"],
+            "chapter": ["one"]    
+          },
+          {
+            "thumbnail": "https://firebasestorage.googleapis.com/v0/b/swap-language-2b74b.appspot.com/o/lessons%2Flesson4.jpg?alt=media&token=e931f23e-613e-48d0-96d9-eff5f7937996",
+            "lesson": ["Lesson 4"],
+            "title": ["Work In DK And Abroad - Video Podcast 1"],
+            "duration": ["Duration: 17min 9sec"],
+            "level": ["Level: Module 2"],
+            "chapter": ["one"]    
+          },
+          {
+            "thumbnail": "https://firebasestorage.googleapis.com/v0/b/swap-language-2b74b.appspot.com/o/lessons%2Flesson5.jpg?alt=media&token=dfa8e2b6-15fe-46e4-afcf-22c6847d7f32",
+            "lesson": ["Lesson 5"],
+            "title": ["Your Previous Jobs"],
+            "duration": ["Duration: 22min 4sec"],
+            "level": ["Level: Module 2"],
+            "chapter": ["one"]    
+          },
+          {
+            "thumbnail": "https://firebasestorage.googleapis.com/v0/b/swap-language-2b74b.appspot.com/o/lessons%2Flesson6.jpg?alt=media&token=9482b346-6f51-4e9c-90fc-a444a592a295",
+            "lesson": ["Lesson 6"],
+            "title": ["Growing Up"],
+            "duration": ["Duration: 24min 12sec"],
+            "level": ["Level: Module 2"],
+            "chapter": ["one"]  
+          },
+          {
+            "thumbnail": "https://firebasestorage.googleapis.com/v0/b/swap-language-2b74b.appspot.com/o/lessons%2Flesson7.jpg?alt=media&token=dccf3f1e-02b1-440c-82ed-43092fc5c541",
+            "lesson": ["Lesson 7"],
+            "title": ["Internationals Coming To Denmark"],
+            "duration": ["Duration: 18sec 49sec"],
+            "level": ["Level: Module 2"],
+            "chapter": ["one"]    
+          },
+          {
+            "thumbnail": "https://firebasestorage.googleapis.com/v0/b/swap-language-2b74b.appspot.com/o/lessons%2Flesson8.jpg?alt=media&token=16352ed2-bcbc-4280-b861-d6705a8d01c5",
+            "lesson": ["Lesson 8"],
+            "title": ["Work In DK And Abroad - Video Podcast 2"],
+            "duration": ["Duration: 17min 44sec"],
+            "level": ["Level: Module 2"],
+            "chapter": ["one"]    
+          },
+          {
+            "thumbnail": "https://firebasestorage.googleapis.com/v0/b/swap-language-2b74b.appspot.com/o/lessons%2Flesson9.jpg?alt=media&token=ee79ca9a-dc3f-4104-8d4f-b6ba9611851e",
+            "lesson": ["Lesson 9"],
+            "title": ["How To Write Great Mails"],
+            "duration": ["Duration: 26min 52sec"],
+            "level": ["Level: Module 2"],
+            "chapter": ["one"]    
+          },
+          {
+            "thumbnail": "https://firebasestorage.googleapis.com/v0/b/swap-language-2b74b.appspot.com/o/lessons%2Flesson10.jpg?alt=media&token=3e430795-83e8-4a94-93bd-e31c727b49c8",
+            "lesson": ["Lesson 10"],
+            "title": ["How To Answer Mails"],
+            "duration": ["Duration: 21min 47sec"],
+            "level": ["Level: Module 2"],
+            "chapter": ["one"]    
+          },
+          {
+            "thumbnail": "https://firebasestorage.googleapis.com/v0/b/swap-language-2b74b.appspot.com/o/lessons%2Flesson11.jpg?alt=media&token=b2582538-5233-41de-9cb6-d627dca7cc10",
+            "lesson": ["Lesson 11"],
+            "title": ["Your Educational Background"],
+            "duration": ["Duration: 26min 26sec"],
+            "level": ["Level: Module 2"],
+            "chapter": ["two"]    
+          },
+          {
+            "thumbnail": "https://firebasestorage.googleapis.com/v0/b/swap-language-2b74b.appspot.com/o/lessons%2Flesson12.jpg?alt=media&token=40b9f078-d219-42c9-b806-9818cd1c625a",
+            "lesson": ["Lesson 12"],
+            "title": ["What is SU?"],
+            "duration": ["Duration: 24min 36sec"],
+            "level": ["Level: Module 2"],
+            "chapter": ["two"]  
+          },
+          {
+            "thumbnail": "https://firebasestorage.googleapis.com/v0/b/swap-language-2b74b.appspot.com/o/lessons%2Flesson13.jpg?alt=media&token=f84a8b92-2a97-42e9-87c4-97c346cb754e",
+            "lesson": ["Lesson 13"],
+            "title": ["Graduation Time in DK"],
+            "duration": ["Duration: 24min 45sec"],
+            "level": ["Level: Module 2"],
+            "chapter": ["two"]  
+          },
+          {
+            "thumbnail": "https://firebasestorage.googleapis.com/v0/b/swap-language-2b74b.appspot.com/o/lessons%2Flesson14.jpg?alt=media&token=148bbfa4-8107-4b7c-a2f2-3c345cdb9dda",
+            "lesson": ["Lesson 14"],
+            "title": ["Education In DK And Abroad - Video Podcast 1"],
+            "duration": ["Duration: 17min 14sec"],
+            "level": ["Level: Module 2"],
+            "chapter": ["two"]  
+          },
+          {
+            "thumbnail": "https://firebasestorage.googleapis.com/v0/b/swap-language-2b74b.appspot.com/o/lessons%2Flesson15.jpg?alt=media&token=a4a3cbe4-bbc8-4972-8e21-6df03ff2a0bd",
+            "lesson": ["Lesson 15"],
+            "title": ["A Danish University"],
+            "duration": ["Duration: 20min 50sec"],
+            "level": ["Level: Module 2"],
+            "chapter": ["two"]  
+          },
+          {
+            "thumbnail": "https://firebasestorage.googleapis.com/v0/b/swap-language-2b74b.appspot.com/o/lessons%2Flesson16.jpg?alt=media&token=1dd77145-31c4-43d9-bae9-cf014de21060",
+            "lesson": ["Lesson 16"],
+            "title": ["You Staying In DK?"],
+            "duration": ["Duration: 21min 5sec"],
+            "level": ["Level: Module 2"],
+            "chapter": ["two"]  
+          }
+    ]
+}
